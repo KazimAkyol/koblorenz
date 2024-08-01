@@ -1,3 +1,7 @@
 sicak
 hareketli
 hos
+
+sezlong
+perde
+kum
